@@ -1,3 +1,5 @@
 # Modern Greek Cheetsheets
 
-[Alpabet and letters combinations](letters.md)
+## Index
+1. [Alpabet and letters combinations](letters.md)
+2. [Numbers](numbers.md)
