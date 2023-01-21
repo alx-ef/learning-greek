@@ -22,9 +22,9 @@
 * το — “it”
 * μας — “us”
 * σας — “you”
-* τους — “them”
-* τις / τες — “them”,  _τις_ is used before a verb, _τες_ after a verb.
-* τα — “them”
+* τους — “them” (masculine, mixed)
+* τις / τες — “them” (feminine),  _τις_ is used before a verb, _τες_ after a verb.
+* τα — “them” (neutral)
 
 __Example__: Σε βλέπω! — “I see you!”
 
@@ -37,9 +37,7 @@ __Example__: Σε βλέπω! — “I see you!”
 * του — “it”/“its”
 * μας — “us”/“our”
 * σας — “you”/“your”
-* τους — “them”/“their”
-* τους — “them”/“their”
-* τους — “them”/“their”
+* τους — “them”/“their” (any gender)
 
 ### Usage
 * In possessive case pronoun follows the noun: Το βιβλίο μου — “My book”
