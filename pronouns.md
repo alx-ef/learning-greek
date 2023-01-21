@@ -2,44 +2,44 @@
 
 ## Nominative  case
 
-* εγώ (egó) — “I”
-* εσύ (esí) — “you”
-* αυτός (aftós) — “he”
-* αυτή (aftí) — “she”
-* αυτό (aftó) — “it”
-* εμείς (emís) — “we”
-* εσείς (esís) — “you”
-* αυτοί (aftí) — “they” (masculine, mixed)
-* αυτές (aftés) — “they” (feminine)
-* αυτά (aftá) — “they” (neutral)
+* εγώ — “I”
+* εσύ — “you”
+* αυτός — “he”
+* αυτή — “she”
+* αυτό — “it”
+* εμείς — “we”
+* εσείς — “you”
+* αυτοί — “they” (masculine, mixed)
+* αυτές — “they” (feminine)
+* αυτά — “they” (neutral)
 
 ## Accusative case
 
-* με (me) — “me”
-* σε (se) — “you”
-* τον (ton) — “him”
-* τη(ν) (tin(n))  — “her”
-* το (to) — “it”
-* μας (mas)  — “us”
-* σας (sas)  — “you”
-* τους (tus) — “them”
-* τις  or τες* (tis or tes) — “them”,  τις is used before a verb, τες after a verb.
-* τα (ta) ) — “them”
+* με — “me”
+* σε — “you”
+* τον — “him”
+* τη(ν) — “her”
+* το — “it”
+* μας — “us”
+* σας — “you”
+* τους — “them”
+* τις / τες — “them”,  _τις_ is used before a verb, _τες_ after a verb.
+* τα — “them”
 
 __Example__: Σε βλέπω! — “I see you!”
 
 ## Genitive/Possessive case
 
-* μου (mu) — “me”/“my”
-* σου (su) — “you”/“your”
-* του (tu) — “him”/“his” 
-* της (tis) — “her”/“her”
-* του (tu) — “it”/“its”
-* μας (mas) — “us”/“our”
-* σας (sas) — “you”/“your”
-* τους (tus) — “them”/“their”
-* τους (tus) — “them”/“their”
-* τους (tus) — “them”/“their”
+* μου — “me”/“my”
+* σου — “you”/“your”
+* του — “him”/“his” 
+* της — “her”/“her”
+* του — “it”/“its”
+* μας — “us”/“our”
+* σας — “you”/“your”
+* τους — “them”/“their”
+* τους — “them”/“their”
+* τους — “them”/“their”
 
 ### Usage
 * In possessive case pronoun follows the noun: Το βιβλίο μου — “My book”
