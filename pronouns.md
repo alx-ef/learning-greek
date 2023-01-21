@@ -44,7 +44,3 @@ __Example__: Σε βλέπω! — “I see you!”
 ### Usage
 * In possessive case pronoun follows the noun: Το βιβλίο μου — “My book”
 * In genetive case pronoun preceeds the noun: Το μου αρέσει — “I like it”
-
-
-
-
